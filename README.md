@@ -87,7 +87,7 @@ pandas
 
 <div align="center">
 
-© johnbrainarddelacruz
+© johnbrainarddelacruz 2025
 
 </div>
 
