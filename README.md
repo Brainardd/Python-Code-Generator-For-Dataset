@@ -85,4 +85,9 @@ pandas
 
 ---
 
-© JohnBrainardDelaCruz
+<div align="center">
+
+© johnbrainarddelacruz
+
+</div>
+
