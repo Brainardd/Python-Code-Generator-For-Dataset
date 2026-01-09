@@ -1,4 +1,4 @@
-# Python Code Readability Dataset Generator !
+# Python Code Readability Dataset Generator
 
 ## Overview
 
